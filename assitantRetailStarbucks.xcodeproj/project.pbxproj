@@ -403,7 +403,7 @@
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Se necesita permiso de microfono para levantar el pedido";
-				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Nesecito permito de reconocimiento de voz para levantar el pedido";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Se necesita permiso de microfono para levantar el pedido";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -450,7 +450,7 @@
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Se necesita permiso de microfono para levantar el pedido";
-				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Nesecito permito de reconocimiento de voz para levantar el pedido";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Se necesita permiso de microfono para levantar el pedido";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
