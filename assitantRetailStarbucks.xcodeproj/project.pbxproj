@@ -255,7 +255,7 @@
 				DEVELOPMENT_TEAM = NB346V5Y94;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = assitantRetailStarbucks/Info.plist;
+				INFOPLIST_FILE = "";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "La app necesita acceder al micrófono para grabar tu voz.";
 				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "La app necesita reconocimiento de voz para procesar tus comandos.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -288,7 +288,7 @@
 				DEVELOPMENT_TEAM = NB346V5Y94;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = assitantRetailStarbucks/Info.plist;
+				INFOPLIST_FILE = "";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "La app necesita acceder al micrófono para grabar tu voz.";
 				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "La app necesita reconocimiento de voz para procesar tus comandos.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
